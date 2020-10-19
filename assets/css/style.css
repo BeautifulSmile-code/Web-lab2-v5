@@ -1,0 +1,26 @@
+html, body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.square {
+    width: 50%;
+    height: 100%;
+    border: 4px black solid;
+    display:inline-block;
+}
+
+.line{
+    width: 240px;
+    height: 120px;
+    display:flex;
+    padding: 4px;
+}
+
+.simonScene{
+    margin: 20px;
+}
+.interface {
+    margin-left: 20px;
+    padding: 4px;
+}
